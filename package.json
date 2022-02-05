@@ -1,5 +1,5 @@
 {
-  "name": "101-daomatians",
+  "name": "daodective",
   "private": true,
   "scripts": {
     "dev": "next dev",

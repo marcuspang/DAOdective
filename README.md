@@ -1,6 +1,4 @@
-# DAOmations
-
-A submission to NUS Hack and Roll 2022, you can find more information [here!](https://devpost.com/software/daomatians)
+# DAOdective
 
 ## Built With
 
@@ -11,4 +9,4 @@ A submission to NUS Hack and Roll 2022, you can find more information [here!](ht
 - [recharts](https://recharts.org/en-US/) - React library for making charts (line, bar, etc.)
 - [react-d3-graph](https://github.com/danielcaldas/react-d3-graph) - React library for making graphs in D3
 
-See the website live [here](https://101-daomatians.vercel.app/)
+See the website live [here](https://daodective.vercel.app/)
