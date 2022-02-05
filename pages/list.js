@@ -6,8 +6,8 @@ export default function List() {
   return (
     <Layout>
       <Head>
-        <title>Hack and Roll 2022</title>
-        <meta name="description" content="Done for Hack and Roll 2022" />
+        <title>DAOdective</title>
+        <meta name="description" content="DAOdective" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <CardList />
